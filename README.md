@@ -1,3 +1,3 @@
 # hellow-World
 My first repository
-First test program to learn GIT
+This is the first GIT Project
